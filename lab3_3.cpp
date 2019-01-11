@@ -6,8 +6,8 @@ int main(){
 
     float x;
     float sum;
-    float y = 2;
-    while (y <=69){
+    float y = 6;
+    while (y <=19){
         x = 1/y;
         y++;
         sum=sum + x;
